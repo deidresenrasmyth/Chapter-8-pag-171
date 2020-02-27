@@ -1,0 +1,15 @@
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\bin\Debug\Chapter 8 pag 171.exe.config
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\bin\Debug\Chapter 8 pag 171.exe
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\bin\Debug\Chapter 8 pag 171.pdb
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\Chapter 8 pag 171.csprojAssemblyReference.cache
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\MainWindow.g.cs
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\App.g.cs
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\Chapter 8 pag 171_MarkupCompile.cache
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\Chapter 8 pag 171_MarkupCompile.lref
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\MainWindow.baml
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\Chapter 8 pag 171.g.resources
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\Chapter_8_pag_171.Properties.Resources.resources
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\Chapter 8 pag 171.csproj.GenerateResource.cache
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\Chapter 8 pag 171.csproj.CoreCompileInputs.cache
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\Chapter 8 pag 171.exe
+C:\Deidre\Module 3\Chaptrer 8 pag 171\Chapter 8 pag 171\Chapter 8 pag 171\obj\Debug\Chapter 8 pag 171.pdb
